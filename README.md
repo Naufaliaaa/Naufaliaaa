@@ -2,10 +2,13 @@
 
 # Hello world, Naufal Zul Faza 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=➜+Portfolio+Naufal+%7C%7C+Naufal+Journey+➜" alt="Links" />
-
-[![Portfolio Naufal](https://img.shields.io/badge/Portfolio-Naufal-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naufaliaaa.github.io/MyPortfolio/)
-[![Naufal Journey](https://img.shields.io/badge/Naufal-Journey-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Naufaliaaa)
+<a href="https://naufaliaaa.github.io/MyPortfolio/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=0&color=00D9FF,FF6B6B,FFD93D&center=true&vCenter=true&repeat=true&width=250&height=30&lines=Portfolio+Naufal" alt="Portfolio Naufal" />
+</a>
+<span style="font-size: 22px; color: white;"> || </span>
+<a href="https://github.com/Naufaliaaa">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=0&color=00D9FF,FF6B6B,FFD93D&center=true&vCenter=true&repeat=true&width=250&height=30&lines=Naufal+Journey" alt="Naufal Journey" />
+</a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I'm+Naufal+Zul+Faza;Software+Engineer+%7C+Problem+Solver;Building+Innovative+Solutions)
 
