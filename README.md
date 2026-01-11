@@ -1,7 +1,10 @@
-# Hi there 👋
-
 <div align="center">
-  
+
+# Hello world, Naufal Zul Faza 👋
+
+[![Portfolio Naufal](https://img.shields.io/badge/Portfolio-Naufal-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naufaliaaa.github.io/MyPortfolio/)
+[![Naufal Journey](https://img.shields.io/badge/Naufal-Journey-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Naufaliaaa)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I'm+Naufal+Zul+Faza;Software+Engineer+%7C+Problem+Solver;Building+Innovative+Solutions)
 
 </div>
@@ -17,7 +20,7 @@ class SoftwareEngineer:
         self.role = "Software Engineer"
         self.education = "Information Technology @ Universitas Pasundan"
         self.location = "Bandung, Jawa Barat, Indonesia 🇮🇩"
-        self.interests = ["Software Development", "Mobile Apps", "IoT", "Web Development","Data Analyst"]
+        self.interests = ["Software Development", "Mobile Apps", "IoT", "Web Development"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together!")
@@ -34,9 +37,8 @@ me.say_hi()
 - 📱 **Mobile Development** - Building cross-platform mobile solutions
 - 🌐 **Web Development** - Developing modern and responsive web applications
 - 🔧 **IoT Projects** - Designing smart automation systems
-- 🤖 **Machine Learning** - Integrating AI capabilities into applications
 - 🎯 **Problem Solving** - Crafting innovative solutions for complex challenges
-
+- 🤖 **Machine Learning** - Integrating AI capabilities into applications
 
 <br clear="right"/>
 
