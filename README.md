@@ -3,11 +3,11 @@
 # Hello world, Naufal Zul Faza 👋
 
 <a href="https://naufaliaaa.github.io/MyPortfolio/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=0&color=00D9FF,FF6B6B,FFD93D&center=true&vCenter=true&repeat=true&width=250&height=30&lines=Portfolio+Naufal" alt="Portfolio Naufal" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=2000&color=FF0000,FFFFFF,0000FF&center=true&vCenter=true&repeat=true&width=180&height=30&lines=→+Portfolio+Naufal" alt="Portfolio Naufal" />
 </a>
 <span style="font-size: 22px; color: white;"> || </span>
 <a href="https://github.com/Naufaliaaa">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1500&pause=0&color=00D9FF,FF6B6B,FFD93D&center=true&vCenter=true&repeat=true&width=250&height=30&lines=Naufal+Journey" alt="Naufal Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=2000&color=FF0000,FFFFFF,0000FF&center=true&vCenter=true&repeat=true&width=200&height=30&lines=Naufal+Journey+←" alt="Naufal Journey" />
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I'm+Naufal+Zul+Faza;Software+Engineer+%7C+Problem+Solver;Building+Innovative+Solutions)
