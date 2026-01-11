@@ -79,38 +79,6 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naufaliaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naufaliaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naufaliaaa&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naufaliaaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Naufaliaaa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
-## 🎯 Featured Projects
-
-[![ATM System](https://github-readme-stats.vercel.app/api/pin/?username=Naufaliaaa&repo=TugasKampus-System-ATM-Automated-Teller-Machine-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Naufaliaaa/TugasKampus-System-ATM-Automated-Teller-Machine-)
-
-[![Smart Trash](https://github-readme-stats.vercel.app/api/pin/?username=Naufaliaaa&repo=Project-IoT-SmartTrash&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Naufaliaaa/Project-IoT-SmartTrash)
-
-[![Karaoke Queue](https://github-readme-stats.vercel.app/api/pin/?username=Naufaliaaa&repo=Project-Antrean-Karakoke-BUS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Naufaliaaa/Project-Antrean-Karakoke-BUS)
-
-[![School Website](https://github-readme-stats.vercel.app/api/pin/?username=Naufaliaaa&repo=Project-Website-Sekolah&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/Naufaliaaa/Project-Website-Sekolah)
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -118,22 +86,6 @@ me.say_hi()
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_naufaliaaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naufalizulfaza2003)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufalizulfaza@gmail.com)
-
-</div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-## 👀 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Naufaliaaa&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 
 </div>
 
