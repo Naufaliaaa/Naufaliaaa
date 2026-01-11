@@ -2,6 +2,8 @@
 
 # Hello world, Naufal Zul Faza 👋
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=➜+Portfolio+Naufal+%7C%7C+Naufal+Journey+➜" alt="Links" />
+
 [![Portfolio Naufal](https://img.shields.io/badge/Portfolio-Naufal-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naufaliaaa.github.io/MyPortfolio/)
 [![Naufal Journey](https://img.shields.io/badge/Naufal-Journey-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Naufaliaaa)
 
