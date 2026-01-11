@@ -2,10 +2,16 @@
 
 # Hello world, Naufal Zul Faza 👋
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
-[![Portfolio Naufal](https://img.shields.io/badge/Portfolio-Naufal-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naufaliaaa.github.io/MyPortfolio/)
-[![Naufal Journey](https://img.shields.io/badge/Naufal-Journey-FF6B6B?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Naufaliaaa)
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+  <a href="https://naufaliaaa.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Naufal-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Naufal">
+  </a>
+  <a href="https://github.com/Naufaliaaa">
+    <img src="https://img.shields.io/badge/Naufal-Journey-FF6B6B?style=for-the-badge&logo=readme&logoColor=white" alt="Naufal Journey">
+  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I'm+Naufal+Zul+Faza;Software+Engineer+%7C+Problem+Solver;Building+Innovative+Solutions)
 
