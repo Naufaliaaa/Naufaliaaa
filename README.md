@@ -2,27 +2,27 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I'm+Naufal+Zul+Faza;Data+Analyst+%7C+Problem+Solver;Passionate+about+Data-Driven+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I'm+Naufal+Zul+Faza;Software+Engineer+%7C+Problem+Solver;Building+Innovative+Solutions)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a **Data Analyst** with a background in Information Technology and a strong interest in data analysis and data-driven problem solving.
+I'm a **Software Engineer** with a background in Information Technology and a strong passion for building innovative solutions through code.
 
 ```python
-class DataAnalyst:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Naufal Zul Faza"
-        self.role = "Data Analyst"
+        self.role = "Software Engineer"
         self.education = "Information Technology @ Universitas Pasundan"
         self.location = "Bandung, Jawa Barat, Indonesia 🇮🇩"
-        self.interests = ["Data Analysis", "Machine Learning", "IoT", "Mobile Development"]
+        self.interests = ["Software Development", "Mobile Apps", "IoT", "Web Development","Data Analyst"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together!")
 
-me = DataAnalyst()
+me = SoftwareEngineer()
 me.say_hi()
 ```
 
@@ -30,12 +30,13 @@ me.say_hi()
 
 ### 💼 What I Do
 
-- 📊 **Data Analysis** - Transforming raw data into actionable insights
-- 🤖 **Machine Learning** - Building predictive models and algorithms
-- 🎯 **Problem Solving** - Creating data-driven solutions for real-world challenges
-- 📱 **Mobile Development** - Crafting user-friendly mobile applications
-- 🌐 **Web Development** - Building responsive and modern web applications
-- 🔧 **IoT Projects** - Developing smart automation systems
+- 💻 **Software Development** - Creating efficient and scalable applications
+- 📱 **Mobile Development** - Building cross-platform mobile solutions
+- 🌐 **Web Development** - Developing modern and responsive web applications
+- 🔧 **IoT Projects** - Designing smart automation systems
+- 🤖 **Machine Learning** - Integrating AI capabilities into applications
+- 🎯 **Problem Solving** - Crafting innovative solutions for complex challenges
+
 
 <br clear="right"/>
 
@@ -67,27 +68,15 @@ me.say_hi()
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 📱 Mobile Development
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔧 Tools & Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_naufaliaaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naufalizulfaza2003)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naufalizulfaza@gmail.com)
-
-</div>
 
 ---
 
