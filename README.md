@@ -2,16 +2,7 @@
 
 # Hello world, Naufal Zul Faza 👋
 
-<p align="center">
-  → → →
-  <a href="https://naufaliaaa.github.io/MyPortfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Naufal-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Naufal">
-  </a>
-  <a href="https://github.com/Naufaliaaa">
-    <img src="https://img.shields.io/badge/Naufal-Journey-FF6B6B?style=for-the-badge&logo=readme&logoColor=white" alt="Naufal Journey">
-  </a>
-  ← ← ←
-</p>
+Explore my portfolio at [Portfolio Naufal](https://naufaliaaa.github.io/MyPortfolio/) || Explore my journey at [Naufal Journey](https://github.com/Naufaliaaa)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I'm+Naufal+Zul+Faza;Software+Engineer+%7C+Problem+Solver;Building+Innovative+Solutions)
 
