@@ -2,7 +2,7 @@
 
 # Hello world, Naufal Zul Faza 👋
 
-Explore my portfolio at [Portfolio Naufal](https://naufaliaaa.github.io/MyPortfolio/) || Explore my blog journey at [Naufal Journey](https://github.com/Naufaliaaa)
+Explore my portfolio at [Portfolio Naufal](https://naufaliaaa.github.io/MyPortfolio/) || Explore my blog journey at [Naufal Journey](https://naufaliaaa.github.io/Naufal-Journey/)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I'm+Naufal+Zul+Faza;Software+Engineer+%7C+Problem+Solver;Building+Innovative+Solutions)
 
